@@ -427,11 +427,12 @@
   prerequisites: |
     Пользователь авторизован и находится в баттле
   test-data: |  
-    no-data 
+    - язык программирования node.js
+    - решение задания const _ = require("lodash");const R = require("rambda");const solution = (width, length) => {return width * length;};module.exports = solution;
   steps:
     - Над редактором нажимаем на кнопку "Run"
   expected-result: |
-    В графе появится результат проверки
+    В графе появится результат, что проверка кода прошла успешно
 
 - summary: |
     Успешное изменение фона редактора кода
