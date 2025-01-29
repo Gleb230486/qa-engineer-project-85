@@ -19,8 +19,8 @@
   prerequisites: |
     Открыта страница регистрации
   test-data: |
-    Email = aaa13@mail.ru
-    Password = 123456789qaz
+    Email = новая не зарегистрированная почта
+    Password = новый пароль
   steps:
     - Нажать на "Sign up"
     - Ввести Nickname
