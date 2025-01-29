@@ -254,10 +254,10 @@
     no-data
   steps:
     - Нажать на "CREATE A GAME"
-	- В настройках выбираем "With a friend"
-	- В списке "Choose opponent" выбрать нужного игрока
-	- Нажать на "Create invite"
-	- В чате лобби появляется сообщение "You invite vtm test to battle. Wait for his reply"
+    - В настройках выбираем "With a friend"
+    - В списке "Choose opponent" выбрать нужного игрока
+    - Нажать на "Create invite"
+    - В чате лобби появляется сообщение "You invite vtm test to battle. Wait for his reply"
   expected-result: |
     Выбранный противник подтверждает приглашение и переходите к баттлу
 
@@ -271,8 +271,8 @@
     no-data
   steps:
     - Нажать на "CREATE A GAME"
-	- В настройках выбираем "With a bot"
-	- Нажать на "Create buttle"
+    - В настройках выбираем "With a bot"
+    - Нажать на "Create buttle"
   expected-result: |
     Игра с ботом создана, открывается страница с баттлом
 
@@ -341,7 +341,7 @@
     no-data
   steps:
     - Над редактором нажать на три точки
-	- Нажать на "Reset Solution"
+    - Нажать на "Reset Solution"
   expected-result: |
     Редактор успешно очищен от набранного кода
 
@@ -421,7 +421,7 @@
     no-data
   steps:
     - В окне "General" справа напечатать сообщение
-	- Нажать на "Send"
+    - Нажать на "Send"
   expected-result: |
     Сообщение успешно отправлено в чат
 
@@ -435,7 +435,7 @@
     no-data
   steps:
     - В окне "General" напечатать сообщение
-	- Нажать на "Send"
+    - Нажать на "Send"
   expected-result: |
     Сообщение успешно отправлено в чат
 
