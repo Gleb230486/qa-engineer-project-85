@@ -23,138 +23,138 @@
      Проверка авторизации пользователя через Discord
   status: pass
 
--- summary: |
+- summary: |
     Проверка входа пользователя с несуществующими логином и паролем
   status: pass
 
--- summary: |
+- summary: |
     Проверка восстановления учетной записи
   status: pass
 
--- summary: |
+- summary: |
     Проверка выхода из личного кабинета
   status: pass
 
--- summary: |
+- summary: |
     Успешное изменение своих данных в личном кабинете
   status: pass
 
--- summary: |
+- summary: |
     Проверка возможности попробовать игру без регистрации
   status: pass
 
--- summary: |
+- summary: |
     Просмотр информации о турнирах
   status: pass
 
--- summary: |
+- summary: |
     Создание игры
   status: pass
 
--- summary: |
+- summary: |
     Выбор уровня сложности в игре
   status: pass
 
--- summary: |
+- summary: |
     Проверка просмотра рейтинга пользователей
   status: pass
 
--- summary: |
+- summary: |
     Проверка поиска конкретного пользователя в рейтинге
   status: pass
 
--- summary: |
+- summary: |
     Проверка приглашения в игру друга
   status: pass
 
--- summary: |
+- summary: |
     Проверка просмотра списка задач
   status: pass
 
--- summary: |
+- summary: |
     Успешное вступление в открытую игру
   status: pass
 
--- summary: |
+- summary: |
     Успешный переход в запущенную игру в качестве зрителя
   status: pass
 
--- summary: |
+- summary: |
     Успешная смена языка программирования во время игры
   status: pass
 
--- summary: |
+- summary: |
     Успешный сброс редактора кода
   status: pass
 
--- summary: |
+- summary: |
     Успешная проверка решения во время игры
   status: pass
 
--- summary: |
+- summary: |
     Успешное изменение фона редактора кода
   status: pass
 
--- summary: |
+- summary: |
     Успешный просмотр во время игры своего редактора и редактора соперника
   status: pass
 
--- summary: |
+- summary: |
     Успешный просмотр повтора игры
   status: pass
 
--- summary: |
+- summary: |
     Успешный выход из игры в личный кабинет
   status: pass
 
--- summary: |
+- summary: |
      Успешная отправка сообщения сопернику во время игры
   status: pass
 
--- summary: |
+- summary: |
     Успешная отправка сообщения в общий чат
   status: pass
 
--- summary: |
+- summary: |
     Успешное отображение задачи на русском языке
   status: pass
 
--- summary: |
+- summary: |
     Проверка просмотра информации завершенных игр
   status: pass
 
--- summary: |
+- summary: |
      Успешное прерывание игры
   status: pass
 
--- summary: |
+- summary: |
     Проверка возможности взять реванш после проигрыша
   status: pass
 
--- summary: |
+- summary: |
     Проверка просмотра исходного кода игры на Githab
   status: pass
 
--- summary: |
+- summary: |
     Успешный переход из личного кабинета на сайт Hexlet
   status: pass
 
--- summary: |
+- summary: |
     Успешный переход в канал игры в телеграмм канале
   status: pass
 
--- summary: |
+- summary: |
     Проверка кроссбраузерности Edge
   status: pass
 
--- summary: |
+- summary: |
     Проверка кроссбраузерности Firefox
   status: pass
 
--- summary: |
+- summary: |
     Проверка кроссбраузерности Google Chrome
   status: pass
 
--- summary: |
+- summary: |
     Проверка на удобство использования на мобильном устройстве 
   status: pass
