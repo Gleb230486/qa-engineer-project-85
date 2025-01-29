@@ -88,6 +88,10 @@
   status: pass
 
 - summary: |
+    Проверка игры с ботом
+  status: pass
+  
+- summary: |
     Проверка просмотра списка задач
   status: pass
 
