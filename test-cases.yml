@@ -242,6 +242,7 @@
     no-data
   steps:
     - Нажимаем на "CREATE A GAME"
+    - Оставляем настройки по умолчанию
     - Нажимаем на "Create battle"
   expected-result: |
     Игра появилась в списке лобби
